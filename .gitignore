@@ -1,0 +1,6 @@
+*.cpk
+*.orig
+*.pkg
+*.xdelta
+*.vcdiff
+*.zip
