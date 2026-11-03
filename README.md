@@ -26,8 +26,8 @@ Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4,
 | Tela de título | Menu principal (PV e PM) |
 | ![Glossário](imagens/fotos/03_glossario.jpg) | ![Começa a batalha](imagens/fotos/04_comeca-a-batalha.jpg) |
 | Glossário | Começo da batalha |
-| ![Resultado](imagens/fotos/06_resultado.jpg) | |
-| Resultado da batalha | |
+| ![Habilidade de batalha](imagens/fotos/05_habilidade-de-batalha.jpg) | ![Resultado](imagens/fotos/06_resultado.jpg) |
+| Habilidade de batalha e combo | Resultado da batalha |
 
 *Fotos da versão Nomes Traduzidos.*
 
