@@ -18,6 +18,19 @@ Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4,
 > texto estão em português. Testado na recompilação PS4RT do jogo e no emulador shadPS4. Se achar algum problema, abra
 > uma [issue](../../issues).
 
+## 📸 Fotos
+
+| | |
+|---|---|
+| ![Tela de título](imagens/fotos/01_titulo.jpg) | ![Menu principal](imagens/fotos/02_menu-principal.jpg) |
+| Tela de título | Menu principal (PV e PM) |
+| ![Glossário](imagens/fotos/03_glossario.jpg) | ![Começa a batalha](imagens/fotos/04_comeca-a-batalha.jpg) |
+| Glossário | Começo da batalha |
+| ![Habilidade de batalha](imagens/fotos/05_habilidade-de-batalha.jpg) | ![Resultado](imagens/fotos/06_resultado.jpg) |
+| Habilidade de batalha e combo | Resultado da batalha |
+
+*Fotos da versão Nomes Traduzidos.*
+
 ## 📥 Download (v1.0)
 
 **[⬇️ Baixar `SO5_PTBR_v1.0.zip`](../../releases/latest)**: as **duas versões** da tradução, os instaladores para
