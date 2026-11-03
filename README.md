@@ -15,7 +15,8 @@ Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4,
 (veja o aviso legal no fim desta página).*
 
 > ✅ História, Ações Privadas, moradores das cidades, missões, menus, itens, habilidades, dicionário e as imagens com
-> texto estão em português. Testado no emulador ps4rt. Se achar algum problema, abra uma [issue](../../issues).
+> texto estão em português. Testado na recompilação PS4RT do jogo e no emulador shadPS4. Se achar algum problema, abra
+> uma [issue](../../issues).
 
 ## 📥 Download (v1.0)
 
@@ -132,8 +133,10 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
 
 ## 🖥️ Onde foi testado
 
-- **ps4rt 0.4.0** (Windows): o jogo roda com a tradução do começo ao fim do que foi testado.
-- **Problema conhecido do emulador:** no ps4rt 0.4.0, abrir **Recursos → Troféus de Batalha** fecha o emulador, também
+- **[Star Ocean: Integrity and Faithlessness PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)**
+  (recompilação do jogo para PC, versão 0.4.0, Windows): a tradução funciona.
+- **[shadPS4](https://github.com/shadps4-emu/shadPS4)** (emulador de PS4): a tradução funciona.
+- **Problema conhecido do PS4RT:** na versão 0.4.0, abrir **Recursos → Troféus de Batalha** fecha o programa, também
   com o jogo original em inglês. Não é da tradução.
 - **PS4/PS5 desbloqueado:** ainda não testado. O patch altera só o arquivo de idioma; um pacote (PKG) para console
   pode vir numa versão futura.
@@ -146,7 +149,7 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
 | "Já é a tradução, mas o original (.orig) não está na pasta" | Alguém apagou o `.orig`. Recoloque o arquivo original do jogo e rode de novo. |
 | No Linux: "o programa xdelta3 não está instalado" | Instale o xdelta3 (veja a Instalação). |
 | Textos misturados ou nomes de arquivo no lugar das falas | O emulador estava aberto na troca, ou foi carregado um *save state* antigo. Feche tudo e abra o jogo do zero. |
-| O emulador fecha em Troféus de Batalha | Limitação do ps4rt 0.4.0 (acontece também em inglês). |
+| O PS4RT fecha em Troféus de Batalha | Limitação do PS4RT 0.4.0 (acontece também em inglês). |
 
 ## 🐞 Achou um erro?
 
