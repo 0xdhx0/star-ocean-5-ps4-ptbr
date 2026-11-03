@@ -134,8 +134,8 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
 ## 🖥️ Onde foi testado
 
 - **[Star Ocean: Integrity and Faithlessness PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)**
-  (recompilação do jogo para PC, versão 0.4.0, Windows): a tradução funciona.
-- **[shadPS4](https://github.com/shadps4-emu/shadPS4)** (emulador de PS4): a tradução funciona.
+  (recompilação do jogo para PC, versão 0.4.0, Windows): as duas versões da tradução funcionam.
+- **[shadPS4](https://github.com/shadps4-emu/shadPS4)** (emulador de PS4): as duas versões da tradução funcionam.
 - **Problema conhecido do PS4RT:** na versão 0.4.0, abrir **Recursos → Troféus de Batalha** fecha o programa, também
   com o jogo original em inglês. Não é da tradução.
 - **PS4/PS5 desbloqueado:** ainda não testado. O patch altera só o arquivo de idioma; um pacote (PKG) para console
