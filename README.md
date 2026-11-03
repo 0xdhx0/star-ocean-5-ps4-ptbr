@@ -40,8 +40,8 @@ Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4,
 |---|---|---|
 | `INSTALAR_WINDOWS.bat` | Instalador do Windows (dois cliques) | — |
 | `instalar_linux.sh` | Instalador do Linux | — |
-| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `2483ab08a4d9dd467458182d4f7a705447bf80f57451f346bfd0aa06478eb403` |
-| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `ee91c862374b8945af9d3dc12975c044c36ed54b62824b21d24fa1e4419818da` |
+| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `ea875344eb27f47e5574e36864ce835cbe18a0fd91c6be27261a626ce62367da` |
+| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `25dea8652c5b1eaeffab3ea66da36e1fe1525499c9824081b4bf136aa548dcc0` |
 | `arquivos/xdelta3.exe` | Aplicador do patch no Windows (xdelta 3.0.11, GPL-2.0) | `d81f59b2fe5e8589c0ee9782e231c805084f4d23dfade413903a4cad63b4e342` |
 
 ## 🎭 Duas versões: escolha a sua
@@ -141,8 +141,8 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
 
 | Versão | MD5 do `FAI_main_ps4_LgENG_14.cpk` traduzido |
 |---|---|
-| Nomes Traduzidos | `3cd738496555e914a885435b4eafdfdb` |
-| Nomes Originais | `f2c5b7ff86599491d617438a4e064a37` |
+| Nomes Traduzidos | `1e48db5f19778a70c17fec5ac4113c29` |
+| Nomes Originais | `73feaa8a00de023e79272fe8ac7492fa` |
 
 ## 🖥️ Onde foi testado
 
