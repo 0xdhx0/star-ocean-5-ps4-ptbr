@@ -1,6 +1,6 @@
 ![Star Ocean: Integrity and Faithlessness — Tradução PT-BR](imagens/banner.png)
 
-# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.1
+# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.2
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%204-003791)
@@ -31,17 +31,17 @@ Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4,
 
 *Fotos da versão Nomes Traduzidos.*
 
-## 📥 Download (v1.1)
+## 📥 Download (v1.2)
 
-**[⬇️ Baixar `SO5_PTBR_v1.1.zip`](../../releases/latest)**: as **duas versões** da tradução, os instaladores para
+**[⬇️ Baixar `SO5_PTBR_v1.2.zip`](../../releases/latest)**: as **duas versões** da tradução, os instaladores para
 **Windows** e **Linux**, o guia `LEIA-ME.txt` e os termos de uso.
 
 | Dentro do zip | Para | SHA-256 |
 |---|---|---|
 | `INSTALAR_WINDOWS.bat` | Instalador do Windows (dois cliques) | — |
 | `instalar_linux.sh` | Instalador do Linux | — |
-| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `ea875344eb27f47e5574e36864ce835cbe18a0fd91c6be27261a626ce62367da` |
-| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `da0f440a8f6998a20a6a6f778fc6cdad5bd31aa49d5810ac62b145c784bdce6a` |
+| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `32e3d6c8635fd53f7fee106729113a20edbd61b4a3840b6656f59dbf4295fa3b` |
+| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `d37b9493e31590b8be18eb42dabe7b9e6eef961d74887ace3e771e4d4ffb22a2` |
 | `arquivos/xdelta3.exe` | Aplicador do patch no Windows (xdelta 3.0.11, GPL-2.0) | `d81f59b2fe5e8589c0ee9782e231c805084f4d23dfade413903a4cad63b4e342` |
 
 ## 🎭 Duas versões: escolha a sua
@@ -57,8 +57,9 @@ Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4,
 | Itens e equipamentos | Português (*Poção de Acuidade, Cajado do Adepto*) | Originais (*Acuity Potion, Adept's Staff*) |
 | Monstros | Português (*Vespa Matadora, Ceifador, Quimera Maga*) | Originais (*Killer Wasp, Grim Reaper, Mage Chimera*) |
 | Papéis (Roles) | Português (*Agressor, Altruísta, Ás*) | Originais (*Aggressor, Altruist, Ace*) |
-| Lugares (cidades, mapas, lojas, casas), inclusive os de palavra comum | Português (*Resulia Central, Castelo Bariff, Armaria Real*) | Originais (*Central Resulia, Castle Bariff, The Royal Armory*) |
-| Nomes que são trocadilho (lojas, monstros, itens) | Recriados (*Mercadinho dos Átomos, Arsenal Come Poeira*) | Originais (*Atoms R Us Provisions, Eat Dirt Military Supplies*) |
+| Cidades e mapas onde se passa, inclusive os de palavra comum | Português (*Resulia Central, Castelo Bariff*) | Originais (*Central Resulia, Castle Bariff*) |
+| Lojas, pousadas e casas, inclusive as de nome-trocadilho | Português (*Armaria Real, Mercadinho dos Átomos, Arsenal Come Poeira*) | Português (iguais) |
+| Itens e monstros com nome-trocadilho | Recriados (*Compondo a Confusão, Homúnculo Rabugento*) | Originais (*Compounding the Issue, Grumpy Homunculus*) |
 | Regiões que não são mapa (reinos, continentes, sistemas, setores, planetas citados) | Português (*Reino de Resulia, Sistema Solar*) | Português (iguais) |
 | Organizações e termos do mundo | Português (*Federação Pangaláctica, Exército de Resulia Central, sineturgia*) | Português (iguais) |
 | Títulos com nome (o título se traduz, o nome não) | Português (*Capitão Kenny, Comandante Dean, Doutor Krupp*) | Português (iguais) |
@@ -71,9 +72,9 @@ Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4,
 - **Nomes Traduzidos:** o jogo todo em português. Só os nomes próprios ficam como no original, mas o título que vem
   com eles se traduz ("Captain Kenny" = "Capitão Kenny").
 - **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. É igual à Nomes Traduzidos, menos o que se
-  procura num guia: os nomes de **lugares, itens, equipamentos, golpes, papéis, magias e monstros** (e os trocadilhos
-  dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
-  descrições, dicionário, organizações, termos do mundo e títulos com nome. A frase em volta segue em português
+  procura num guia: os nomes de **cidades e mapas, itens, equipamentos, golpes, papéis, magias e monstros** (e os
+  trocadilhos dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
+  descrições, dicionário, lojas, organizações, termos do mundo e títulos com nome. A frase em volta segue em português
   ("Fidel aprende Abyssal Gate", "o Capitão Kenny espera em Central Resulia").
 
 As duas usam o mesmo arquivo original do jogo e os mesmos saves: dá para trocar de versão a qualquer momento.
@@ -119,7 +120,7 @@ alfabeto inventado do jogo.
 Feche o jogo e o emulador antes.
 
 **🪟 Windows**
-1. Baixe o `SO5_PTBR_v1.1.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
+1. Baixe o `SO5_PTBR_v1.2.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
 2. Dê dois cliques em **`INSTALAR_WINDOWS.bat`**.
 3. Escolha a versão: **1** Nomes Traduzidos, **2** Nomes Originais (ou **3** para desinstalar).
 4. Na janela que abrir, escolha a pasta **`CUSA03219`** do jogo.
@@ -145,8 +146,8 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
 
 | Versão | MD5 do `FAI_main_ps4_LgENG_14.cpk` traduzido |
 |---|---|
-| Nomes Traduzidos | `1e48db5f19778a70c17fec5ac4113c29` |
-| Nomes Originais | `aa58a97dbae86a24d6c8bc49422bce1b` |
+| Nomes Traduzidos | `bc55dff3b670326dc634406c25398852` |
+| Nomes Originais | `717646da0c0c6b10dcb13a68736aa55e` |
 
 ## 🖥️ Onde foi testado
 
