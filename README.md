@@ -1,22 +1,22 @@
 ![Star Ocean: Integrity and Faithlessness — Tradução PT-BR](imagens/banner.png)
 
-# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.2
+# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.3
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
-![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%204-003791)
+![Plataforma](https://img.shields.io/badge/plataforma-PS4%20%7C%20PS5-003791)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-Europa%20(CUSA03219)-555)
 ![Release](https://img.shields.io/github/v/release/0xdhx0/star-ocean-5-ps4-ptbr?label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
 Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4, versão europeia) para o
-**português do Brasil**.
+**português do Brasil**. Funciona em emulador e em **PS4 e PS5 desbloqueados**.
 
 *Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix ou a tri-Ace
 (veja o aviso legal no fim desta página).*
 
 > ✅ História, Ações Privadas, moradores das cidades, missões, menus, itens, habilidades, dicionário e as imagens com
-> texto estão em português. Testado na recompilação PS4RT do jogo. Se achar algum problema, abra
-> uma [issue](../../issues).
+> texto estão em português. Testado na recompilação PS4RT do jogo e em PS4 e PS5 desbloqueados. Se achar algum
+> problema, abra uma [issue](../../issues).
 
 ## 📸 Fotos
 
@@ -31,18 +31,26 @@ Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4,
 
 *Fotos da versão Nomes Traduzidos.*
 
-## 📥 Download (v1.2)
+## 📥 Download (v1.3)
 
-**[⬇️ Baixar `SO5_PTBR_v1.2.zip`](../../releases/latest)**: as **duas versões** da tradução, os instaladores para
-**Windows** e **Linux**, o guia `LEIA-ME.txt` e os termos de uso.
+**[⬇️ Baixar na página de Releases](../../releases/latest)**: tem um zip para cada sistema. Os dois trazem as **duas
+versões** da tradução, o instalador, o guia `LEIA-ME.txt` e os termos de uso.
+
+| Seu computador | Baixe |
+|---|---|
+| 🪟 Windows | `SO5_PTBR_v1.3_Windows.zip` |
+| 🐧 Linux | `SO5_PTBR_v1.3_Linux.zip` |
 
 | Dentro do zip | Para | SHA-256 |
 |---|---|---|
-| `INSTALAR_WINDOWS.bat` | Instalador do Windows (dois cliques) | — |
-| `instalar_linux.sh` | Instalador do Linux | — |
-| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `32e3d6c8635fd53f7fee106729113a20edbd61b4a3840b6656f59dbf4295fa3b` |
-| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `d37b9493e31590b8be18eb42dabe7b9e6eef961d74887ace3e771e4d4ffb22a2` |
-| `arquivos/xdelta3.exe` | Aplicador do patch no Windows (xdelta 3.0.11, GPL-2.0) | `d81f59b2fe5e8589c0ee9782e231c805084f4d23dfade413903a4cad63b4e342` |
+| `INSTALAR_WINDOWS.bat` | Instalador do Windows (dois cliques; só no zip do Windows) | — |
+| `instalar_linux.sh` | Instalador do Linux (só no zip do Linux) | — |
+| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `1d9e5089c1b12e7ad2a274541e417c5c03203ca3aa5ad3b4738f7d4f5bf38259` |
+| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `a45b5b3ec4afdb2f83885f692810117943fc71e5d33f238ce2f711f757ad5bfc` |
+| `arquivos/xdelta3.exe` | Aplicador do patch (xdelta 3.0.11, GPL-2.0; só no zip do Windows) | `d81f59b2fe5e8589c0ee9782e231c805084f4d23dfade413903a4cad63b4e342` |
+| `arquivos/SO5_PKG.exe` | Extrai e gera PKG no Windows (LibOrbisPkg, LGPL-3.0) | `5a90707cc1f68b34bfc672af65bed6fcfbe0d75a92e420a3ff8de8500b4a7f06` |
+| `arquivos/SO5_PKG` | Extrai e gera PKG no Linux (LibOrbisPkg, LGPL-3.0) | `bcec12b0644222215334dd9f50f247b04224b7eb73e2c95b2af59dc38876df9a` |
+| `arquivos/LibOrbisPkg_fonte.zip` | Código-fonte do `SO5_PKG`, com as nossas alterações | `2e5af2558d34715a6d2143650a03c561a66ffcc4aaf2eb71b8c6c4a93f2c3a0e` |
 
 ## 🎭 Duas versões: escolha a sua
 
@@ -105,7 +113,7 @@ alfabeto inventado do jogo.
 ## 🧩 Requisitos
 
 - **Star Ocean: Integrity and Faithlessness para PS4, versão europeia (CUSA03219)**, com o jogo **descompactado**
-  (pasta `CUSA03219` com os arquivos `.cpk`), para usar em emulador.
+  (pasta `CUSA03219` com os arquivos `.cpk`), para usar em emulador. Para PS4/PS5, veja a instalação no console.
 - O jogo com o **texto em inglês** (a tradução substitui o arquivo de idioma inglês).
 - O arquivo que o patch altera é **um só**, sem nenhuma alteração anterior:
 
@@ -120,7 +128,7 @@ alfabeto inventado do jogo.
 Feche o jogo e o emulador antes.
 
 **🪟 Windows**
-1. Baixe o `SO5_PTBR_v1.2.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
+1. Baixe o `SO5_PTBR_v1.3_Windows.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
 2. Dê dois cliques em **`INSTALAR_WINDOWS.bat`**.
 3. Escolha a versão: **1** Nomes Traduzidos, **2** Nomes Originais (ou **3** para desinstalar).
 4. Na janela que abrir, escolha a pasta **`CUSA03219`** do jogo.
@@ -128,7 +136,7 @@ Feche o jogo e o emulador antes.
 **🐧 Linux**
 1. Instale o xdelta3, se ainda não tiver: `sudo apt install xdelta3` (Debian/Ubuntu/Mint),
    `sudo dnf install xdelta` (Fedora) ou `sudo pacman -S xdelta3` (Arch/Manjaro).
-2. Descompacte o zip e rode: `bash instalar_linux.sh`
+2. Baixe o `SO5_PTBR_v1.3_Linux.zip`, descompacte e rode: `bash instalar_linux.sh`
 3. Escolha a versão e a pasta `CUSA03219` (janela de pasta com zenity/kdialog, ou digite o caminho).
 
 **O que o instalador faz:** acha o `FAI_main_ps4_LgENG_14.cpk` na pasta (ou nas subpastas), confere se é o original
@@ -138,6 +146,21 @@ certo, aplica a tradução, confere o resultado e **guarda o original como `FAI_
 Depois de instalar, abra o jogo do zero. Se o emulador usa *save state*, não carregue um state antigo: ele guarda o
 texto da versão anterior. Os saves normais do jogo funcionam nas duas versões.
 
+**🎮 PS4 e PS5 desbloqueados**
+
+No instalador do Windows ou do Linux:
+
+| Opção | O que faz | Escolhas |
+|---|---|---|
+| **4** | Extrai o PKG do jogo para uma pasta nova | Nomes Traduzidos, Nomes Originais ou só extrair |
+| **5** | Gera um PKG para instalar no console, a partir da pasta do jogo | Nomes Traduzidos, Nomes Originais ou o arquivo de idioma que já está na pasta |
+
+- Cada opção precisa de **31 GB livres** em disco NTFS, exFAT ou ext4.
+- A pasta do jogo e o PKG escolhido não são alterados. O `.orig` fica de fora do PKG gerado.
+- O PKG gerado mantém a versão do jogo. Para levar ao console, use pen drive exFAT ou a rede.
+- A opção 4 não abre PKG criptografado da PSN; nesse caso, use a pasta do jogo.
+- **O PKG gerado contém o jogo inteiro: é só para o seu uso, não compartilhe.**
+
 **Sem o instalador** (qualquer sistema), com o `xdelta3`:
 ```
 xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FAI_main_ps4_LgENG_14.cpk
@@ -146,8 +169,8 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
 
 | Versão | MD5 do `FAI_main_ps4_LgENG_14.cpk` traduzido |
 |---|---|
-| Nomes Traduzidos | `bc55dff3b670326dc634406c25398852` |
-| Nomes Originais | `717646da0c0c6b10dcb13a68736aa55e` |
+| Nomes Traduzidos | `7cf7d6bf39b8f643f0e6eeb718e35e63` |
+| Nomes Originais | `590207f113437aeaf5dba2d5dff10e9c` |
 
 ## 🖥️ Onde foi testado
 
@@ -155,8 +178,7 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
   (recompilação do jogo para PC, versão 0.4.0, Windows): as duas versões da tradução funcionam.
 - **Problema conhecido do PS4RT:** na versão 0.4.0, abrir **Recursos → Troféus de Batalha** fecha o programa, também
   com o jogo original em inglês. Não é da tradução.
-- **PS4/PS5 desbloqueado:** ainda não testado. O patch altera só o arquivo de idioma; um pacote (PKG) para console
-  pode vir numa versão futura.
+- **PS4 e PS5 desbloqueados:** funcionando, com o PKG gerado pelo instalador.
 
 ## ❓ Não funcionou?
 
@@ -166,6 +188,8 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
 | "Já é a tradução, mas o original (.orig) não está na pasta" | Alguém apagou o `.orig`. Recoloque o arquivo original do jogo e rode de novo. |
 | No Linux: "o programa xdelta3 não está instalado" | Instale o xdelta3 (veja a Instalação). |
 | Textos misturados ou nomes de arquivo no lugar das falas | O emulador estava aberto na troca, ou foi carregado um *save state* antigo. Feche tudo e abra o jogo do zero. |
+| "Este PKG é criptografado" | O PKG é o formato da PSN, que a opção 4 não abre. Use a pasta do jogo. |
+| "A unidade é FAT32" | Esse formato não aceita arquivos maiores que 4 GB. Escolha um disco NTFS, exFAT ou ext4. |
 | O PS4RT fecha em Troféus de Batalha | Limitação do PS4RT 0.4.0 (acontece também em inglês). |
 
 ## 🐞 Achou um erro?
@@ -177,6 +201,7 @@ Nomes Originais), o lugar do jogo e, se puder, mande um print. Toda correção d
 
 - **Tradução, revisão, imagens e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
 - **xdelta3** (aplicador do patch): Joshua MacDonald, [xdelta-gpl](https://github.com/jmacd/xdelta-gpl) (GPL-2.0).
+- **LibOrbisPkg** (extração e geração de PKG): maxton, [LibOrbisPkg](https://github.com/maxton/LibOrbisPkg) (LGPL-3.0).
 - **Fontes livres** usadas nas imagens: Liberation (Serif e Sans, licença OFL), Russo One e Cinzel (OFL), Arimo (Apache).
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todos os textos foram revisados com o contexto da história e o
