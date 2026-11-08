@@ -3,13 +3,18 @@
 # 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.3
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
-![Plataforma](https://img.shields.io/badge/plataforma-PS4%20%7C%20PS5-003791)
+![Plataforma](https://img.shields.io/badge/plataforma-PS4RT%20%7C%20PS4%20%7C%20PS5-003791)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-Europa%20(CUSA03219)-555)
 ![Release](https://img.shields.io/github/v/release/0xdhx0/star-ocean-5-ps4-ptbr?label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
 Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4, versão europeia) para o
-**português do Brasil**. Funciona em emulador e em **PS4 e PS5 desbloqueados**.
+**português do Brasil**, feita para o **[Star Ocean: Integrity and Faithlessness PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)**, a recompilação do
+jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
+
+> 🖥️ **Esta tradução nasceu para jogar o Star Ocean traduzido no [PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT).**
+> Ela troca o arquivo de idioma inglês do jogo, então serve também no PS4 e no PS5 desbloqueados (o instalador gera o
+> PKG). Instale o PS4RT e descompacte o jogo antes.
 
 *Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix ou a tri-Ace
 (veja o aviso legal no fim desta página).*
@@ -113,7 +118,8 @@ alfabeto inventado do jogo.
 ## 🧩 Requisitos
 
 - **Star Ocean: Integrity and Faithlessness para PS4, versão europeia (CUSA03219)**, com o jogo **descompactado**
-  (pasta `CUSA03219` com os arquivos `.cpk`), para usar em emulador. Para PS4/PS5, veja a instalação no console.
+  (pasta `CUSA03219` com os arquivos `.cpk`), para usar no [PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT). Para PS4/PS5, veja a instalação no
+  console.
 - O jogo com o **texto em inglês** (a tradução substitui o arquivo de idioma inglês).
 - O arquivo que o patch altera é **um só**, sem nenhuma alteração anterior:
 
@@ -200,12 +206,13 @@ Nomes Originais), o lugar do jogo e, se puder, mande um print. Toda correção d
 ## 🙏 Créditos
 
 - **Tradução, revisão, imagens e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
+- **[Star Ocean: Integrity and Faithlessness PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)**, que torna possível jogar (e testar a tradução) no PC.
 - **xdelta3** (aplicador do patch): Joshua MacDonald, [xdelta-gpl](https://github.com/jmacd/xdelta-gpl) (GPL-2.0).
 - **LibOrbisPkg** (extração e geração de PKG): maxton, [LibOrbisPkg](https://github.com/maxton/LibOrbisPkg) (LGPL-3.0).
 - **Fontes livres** usadas nas imagens: Liberation (Serif e Sans, licença OFL), Russo One e Cinzel (OFL), Arimo (Apache).
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todos os textos foram revisados com o contexto da história e o
-jeito de falar de cada personagem, conferidos pixel a pixel para caber nas caixas e testados no emulador. Se achar uma
+jeito de falar de cada personagem, conferidos pixel a pixel para caber nas caixas e testados no PS4RT. Se achar uma
 frase estranha, abra uma [issue](../../issues), porque toda sugestão ajuda.
 
 ## ⚖️ Aviso legal e uso
