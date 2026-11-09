@@ -1,6 +1,6 @@
 ![Star Ocean: Integrity and Faithlessness — Tradução PT-BR](imagens/banner.png)
 
-# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.3
+# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.4
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-PS4RT%20%7C%20PS4%20%7C%20PS5-003791)
@@ -22,6 +22,10 @@ jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
 > ✅ História, Ações Privadas, moradores das cidades, missões, menus, itens, habilidades, dicionário e as imagens com
 > texto estão em português. Testado na recompilação PS4RT do jogo e em PS4 e PS5 desbloqueados. Se achar algum
 > problema, abra uma [issue](../../issues).
+>
+> 🇯🇵 **Na v1.4, todo o texto foi revisado de novo comparando com a versão japonesa do jogo**: nomes, descrições de
+> itens, habilidades e monstros, missões e todos os diálogos. Foram corrigidos sentidos que o inglês deixava ambíguos,
+> o gênero e o singular/plural de quem fala, e algumas decisões de nomes. Alturas e pesos dos perfis seguem os valores oficiais.
 
 ## 📸 Fotos
 
@@ -36,15 +40,15 @@ jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
 
 *Fotos da versão Nomes Traduzidos.*
 
-## 📥 Download (v1.3)
+## 📥 Download (v1.4)
 
 **[⬇️ Baixar na página de Releases](../../releases/latest)**: tem um zip para cada sistema. Os dois trazem as **duas
 versões** da tradução, o instalador, o guia `LEIA-ME.txt` e os termos de uso.
 
 | Seu computador | Baixe |
 |---|---|
-| 🪟 Windows | `SO5_PTBR_v1.3_Windows.zip` |
-| 🐧 Linux | `SO5_PTBR_v1.3_Linux.zip` |
+| 🪟 Windows | `SO5_PTBR_v1.4_Windows.zip` |
+| 🐧 Linux | `SO5_PTBR_v1.4_Linux.zip` |
 
 | Dentro do zip | Para | SHA-256 |
 |---|---|---|
@@ -134,7 +138,7 @@ alfabeto inventado do jogo.
 Feche o jogo e o emulador antes.
 
 **🪟 Windows**
-1. Baixe o `SO5_PTBR_v1.3_Windows.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
+1. Baixe o `SO5_PTBR_v1.4_Windows.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
 2. Dê dois cliques em **`INSTALAR_WINDOWS.bat`**.
 3. Escolha a versão: **1** Nomes Traduzidos, **2** Nomes Originais (ou **3** para desinstalar).
 4. Na janela que abrir, escolha a pasta **`CUSA03219`** do jogo.
@@ -142,7 +146,7 @@ Feche o jogo e o emulador antes.
 **🐧 Linux**
 1. Instale o xdelta3, se ainda não tiver: `sudo apt install xdelta3` (Debian/Ubuntu/Mint),
    `sudo dnf install xdelta` (Fedora) ou `sudo pacman -S xdelta3` (Arch/Manjaro).
-2. Baixe o `SO5_PTBR_v1.3_Linux.zip`, descompacte e rode: `bash instalar_linux.sh`
+2. Baixe o `SO5_PTBR_v1.4_Linux.zip`, descompacte e rode: `bash instalar_linux.sh`
 3. Escolha a versão e a pasta `CUSA03219` (janela de pasta com zenity/kdialog, ou digite o caminho).
 
 **O que o instalador faz:** acha o `FAI_main_ps4_LgENG_14.cpk` na pasta (ou nas subpastas), confere se é o original
