@@ -1,6 +1,6 @@
 ![Star Ocean: Integrity and Faithlessness — Tradução PT-BR](imagens/banner.png)
 
-# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.4
+# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.5
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-PS4RT%20%7C%20PS4%20%7C%20PS5-003791)
@@ -26,6 +26,10 @@ jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
 > 🇯🇵 **Na v1.4, todo o texto foi revisado de novo comparando com a versão japonesa do jogo**: nomes, descrições de
 > itens, habilidades e monstros, missões e todos os diálogos. Foram corrigidos sentidos que o inglês deixava ambíguos,
 > o gênero e o singular/plural de quem fala, e algumas decisões de nomes. Alturas e pesos dos perfis seguem os valores oficiais.
+>
+> ✏️ **Na v1.5, nomes inventados que não faziam sentido em português foram trocados** (versão Nomes Traduzidos):
+> golpes Baionetaço, Martelapocalipse, Míssil de Penas, Eletrosfera e Ventosfera; monstros Bolofofo e Tratareia;
+> papéis Terrassaltante, Aerobeligerante, Lumercenário e Caosmilitante. Também foi corrigido um erro de ortografia.
 
 ## 📸 Fotos
 
@@ -40,22 +44,22 @@ jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
 
 *Fotos da versão Nomes Traduzidos.*
 
-## 📥 Download (v1.4)
+## 📥 Download (v1.5)
 
 **[⬇️ Baixar na página de Releases](../../releases/latest)**: tem um zip para cada sistema. Os dois trazem as **duas
 versões** da tradução, o instalador, o guia `LEIA-ME.txt` e os termos de uso.
 
 | Seu computador | Baixe |
 |---|---|
-| 🪟 Windows | `SO5_PTBR_v1.4_Windows.zip` |
-| 🐧 Linux | `SO5_PTBR_v1.4_Linux.zip` |
+| 🪟 Windows | `SO5_PTBR_v1.5_Windows.zip` |
+| 🐧 Linux | `SO5_PTBR_v1.5_Linux.zip` |
 
 | Dentro do zip | Para | SHA-256 |
 |---|---|---|
 | `INSTALAR_WINDOWS.bat` | Instalador do Windows (dois cliques; só no zip do Windows) | — |
 | `instalar_linux.sh` | Instalador do Linux (só no zip do Linux) | — |
-| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `1d9e5089c1b12e7ad2a274541e417c5c03203ca3aa5ad3b4738f7d4f5bf38259` |
-| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `a45b5b3ec4afdb2f83885f692810117943fc71e5d33f238ce2f711f757ad5bfc` |
+| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `d97dea0c69a59a1b57c589b026727ebc0f2efcd22a1c35545327fc13fd04f360` |
+| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `1da5d7b20bc103e37f1c12e21c515b48941e80c0c29e406b3279bf4ff074e531` |
 | `arquivos/xdelta3.exe` | Aplicador do patch (xdelta 3.0.11, GPL-2.0; só no zip do Windows) | `d81f59b2fe5e8589c0ee9782e231c805084f4d23dfade413903a4cad63b4e342` |
 | `arquivos/SO5_PKG.exe` | Extrai e gera PKG no Windows (LibOrbisPkg, LGPL-3.0) | `5a90707cc1f68b34bfc672af65bed6fcfbe0d75a92e420a3ff8de8500b4a7f06` |
 | `arquivos/SO5_PKG` | Extrai e gera PKG no Linux (LibOrbisPkg, LGPL-3.0) | `bcec12b0644222215334dd9f50f247b04224b7eb73e2c95b2af59dc38876df9a` |
@@ -138,7 +142,7 @@ alfabeto inventado do jogo.
 Feche o jogo e o emulador antes.
 
 **🪟 Windows**
-1. Baixe o `SO5_PTBR_v1.4_Windows.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
+1. Baixe o `SO5_PTBR_v1.5_Windows.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
 2. Dê dois cliques em **`INSTALAR_WINDOWS.bat`**.
 3. Escolha a versão: **1** Nomes Traduzidos, **2** Nomes Originais (ou **3** para desinstalar).
 4. Na janela que abrir, escolha a pasta **`CUSA03219`** do jogo.
@@ -146,7 +150,7 @@ Feche o jogo e o emulador antes.
 **🐧 Linux**
 1. Instale o xdelta3, se ainda não tiver: `sudo apt install xdelta3` (Debian/Ubuntu/Mint),
    `sudo dnf install xdelta` (Fedora) ou `sudo pacman -S xdelta3` (Arch/Manjaro).
-2. Baixe o `SO5_PTBR_v1.4_Linux.zip`, descompacte e rode: `bash instalar_linux.sh`
+2. Baixe o `SO5_PTBR_v1.5_Linux.zip`, descompacte e rode: `bash instalar_linux.sh`
 3. Escolha a versão e a pasta `CUSA03219` (janela de pasta com zenity/kdialog, ou digite o caminho).
 
 **O que o instalador faz:** acha o `FAI_main_ps4_LgENG_14.cpk` na pasta (ou nas subpastas), confere se é o original
