@@ -30,6 +30,7 @@ jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
 > ✏️ **Na v1.5, nomes inventados que não faziam sentido em português foram trocados** (versão Nomes Traduzidos):
 > golpes Baionetaço, Martelapocalipse, Míssil de Penas, Eletrosfera e Ventosfera; monstros Bolofofo e Tratareia;
 > papéis Terrassaltante, Aerobeligerante, Lumercenário e Caosmilitante. Também foi corrigido um erro de ortografia.
+> Atualização de 14/11/2026: nomes de lugar da versão Nomes Originais corrigidos (iguais em todas as telas).
 
 ## 📸 Fotos
 
@@ -59,7 +60,7 @@ versões** da tradução, o instalador, o guia `LEIA-ME.txt` e os termos de uso.
 | `INSTALAR_WINDOWS.bat` | Instalador do Windows (dois cliques; só no zip do Windows) | — |
 | `instalar_linux.sh` | Instalador do Linux (só no zip do Linux) | — |
 | `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `d97dea0c69a59a1b57c589b026727ebc0f2efcd22a1c35545327fc13fd04f360` |
-| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `1da5d7b20bc103e37f1c12e21c515b48941e80c0c29e406b3279bf4ff074e531` |
+| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `e8125afbe69d547502bc77f3582cad9d937fc41c4d2ba197f3ede67c54989b9a` |
 | `arquivos/xdelta3.exe` | Aplicador do patch (xdelta 3.0.11, GPL-2.0; só no zip do Windows) | `d81f59b2fe5e8589c0ee9782e231c805084f4d23dfade413903a4cad63b4e342` |
 | `arquivos/SO5_PKG.exe` | Extrai e gera PKG no Windows (LibOrbisPkg, LGPL-3.0) | `5a90707cc1f68b34bfc672af65bed6fcfbe0d75a92e420a3ff8de8500b4a7f06` |
 | `arquivos/SO5_PKG` | Extrai e gera PKG no Linux (LibOrbisPkg, LGPL-3.0) | `bcec12b0644222215334dd9f50f247b04224b7eb73e2c95b2af59dc38876df9a` |
