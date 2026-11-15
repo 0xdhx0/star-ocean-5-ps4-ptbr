@@ -1,28 +1,21 @@
 ![Star Ocean: Integrity and Faithlessness — Tradução PT-BR](imagens/banner.png)
 
-# 🌌 Star Ocean: Integrity and Faithlessness — Tradução PT-BR v1.5
+# 🌌 Star Ocean: Integrity and Faithlessness (PS4) — Tradução PT-BR
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
-![Plataforma](https://img.shields.io/badge/plataforma-PS4RT%20%7C%20PS4%20%7C%20PS5-003791)
+![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%204-003791)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-Europa%20(CUSA03219)-555)
-![Release](https://img.shields.io/github/v/release/0xdhx0/star-ocean-5-ps4-ptbr?label=patch)
+![Release](https://img.shields.io/github/v/release/0xdhx0/star-ocean-5-ps4-ptbr?include_prereleases&label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
-Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4, versão europeia) para o
-**português do Brasil**, feita para o **[Star Ocean: Integrity and Faithlessness PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)**, a recompilação do
-jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
+Tradução de fã do **Star Ocean: Integrity and Faithlessness** (PlayStation 4, versão europeia).
+**Tradução completa para o português do Brasil**, com menus, história, diálogos, magias, golpes, papéis, itens,
+monstros, lugares e imagens com texto em português.
 
-> 🖥️ **Esta tradução nasceu para jogar o Star Ocean traduzido no [PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT).**
-> Ela troca o arquivo de idioma inglês do jogo, então serve também no PS4 e no PS5 desbloqueados (o instalador gera o
-> PKG). Instale o PS4RT e descompacte o jogo antes.
+*Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix ou a tri-Ace (veja o
+aviso legal no fim desta página).*
 
-*Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix ou a tri-Ace
-(veja o aviso legal no fim desta página).*
-
-> ✅ História, Ações Privadas, moradores das cidades, missões, menus, itens, habilidades, dicionário e as imagens com
-> texto estão em português. Testado na recompilação PS4RT do jogo e em PS4 e PS5 desbloqueados. Se achar algum
-> problema, abra uma [issue](../../issues).
-
+> ✅ O jogo inteiro está traduzido. Se achar algum problema, abra uma [issue](../../issues).
 
 ## 📸 Fotos
 
@@ -35,63 +28,11 @@ jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
 | ![Habilidade de batalha](imagens/fotos/05_habilidade-de-batalha.jpg) | ![Resultado](imagens/fotos/06_resultado.jpg) |
 | Habilidade de batalha e combo | Resultado da batalha |
 
-*Fotos da versão Nomes Traduzidos.*
+## 📥 Download
 
-## 📥 Download (v1.5)
-
-**[⬇️ Baixar na página de Releases](../../releases/latest)**: tem um zip para cada sistema. Os dois trazem as **duas
-versões** da tradução, o instalador, o guia `LEIA-ME.txt` e os termos de uso.
-
-| Seu computador | Baixe |
-|---|---|
-| 🪟 Windows | `SO5_PTBR_v1.5_Windows.zip` |
-| 🐧 Linux | `SO5_PTBR_v1.5_Linux.zip` |
-
-| Dentro do zip | Para | SHA-256 |
-|---|---|---|
-| `INSTALAR_WINDOWS.bat` | Instalador do Windows (dois cliques; só no zip do Windows) | — |
-| `instalar_linux.sh` | Instalador do Linux (só no zip do Linux) | — |
-| `arquivos/Nomes_Traduzidos.xdelta` | Versão Nomes Traduzidos | `d97dea0c69a59a1b57c589b026727ebc0f2efcd22a1c35545327fc13fd04f360` |
-| `arquivos/Nomes_Originais.xdelta` | Versão Nomes Originais | `e8125afbe69d547502bc77f3582cad9d937fc41c4d2ba197f3ede67c54989b9a` |
-| `arquivos/xdelta3.exe` | Aplicador do patch (xdelta 3.0.11, GPL-2.0; só no zip do Windows) | `d81f59b2fe5e8589c0ee9782e231c805084f4d23dfade413903a4cad63b4e342` |
-| `arquivos/SO5_PKG.exe` | Extrai e gera PKG no Windows (LibOrbisPkg, LGPL-3.0) | `5a90707cc1f68b34bfc672af65bed6fcfbe0d75a92e420a3ff8de8500b4a7f06` |
-| `arquivos/SO5_PKG` | Extrai e gera PKG no Linux (LibOrbisPkg, LGPL-3.0) | `bcec12b0644222215334dd9f50f247b04224b7eb73e2c95b2af59dc38876df9a` |
-| `arquivos/LibOrbisPkg_fonte.zip` | Código-fonte do `SO5_PKG`, com as nossas alterações | `2e5af2558d34715a6d2143650a03c561a66ffcc4aaf2eb71b8c6c4a93f2c3a0e` |
-
-## 🎭 Duas versões: escolha a sua
-
-| | **Nomes Traduzidos** | **Nomes Originais** |
-|---|---|---|
-| Menus e telas | Português | Português |
-| História, diálogos, Ações Privadas e mensagens | Português | Português |
-| Descrições (itens, habilidades, monstros, dicionário, missões) | Português | Português |
-| Piadas e trocadilhos dentro das falas | Recriados em português | Recriados em português |
-| Sineturgia (magias) | Português (*Pena de Anjo, Impacto Ártico*) | Originais (*Angel Feather, Arctic Impact*) |
-| Golpes e habilidades de batalha | Português (*Portal Abissal, Chuva Ácida*) | Originais (*Abyssal Gate, Acid Rain*) |
-| Itens e equipamentos | Português (*Poção de Acuidade, Cajado do Adepto*) | Originais (*Acuity Potion, Adept's Staff*) |
-| Monstros | Português (*Vespa Matadora, Ceifador, Quimera Maga*) | Originais (*Killer Wasp, Grim Reaper, Mage Chimera*) |
-| Papéis (Roles) | Português (*Agressor, Altruísta, Ás*) | Originais (*Aggressor, Altruist, Ace*) |
-| Cidades e mapas onde se passa, inclusive os de palavra comum | Português (*Resulia Central, Castelo Bariff*) | Originais (*Central Resulia, Castle Bariff*) |
-| Lojas, pousadas e casas, inclusive as de nome-trocadilho | Português (*Armaria Real, Mercadinho dos Átomos, Arsenal Come Poeira*) | Português (iguais) |
-| Itens e monstros com nome-trocadilho | Recriados (*Compondo a Confusão, Homúnculo Rabugento*) | Originais (*Compounding the Issue, Grumpy Homunculus*) |
-| Regiões que não são mapa (reinos, continentes, sistemas, setores, planetas citados) | Português (*Reino de Resulia, Sistema Solar*) | Português (iguais) |
-| Organizações e termos do mundo | Português (*Federação Pangaláctica, Exército de Resulia Central, sineturgia*) | Português (iguais) |
-| Títulos com nome (o título se traduz, o nome não) | Português (*Capitão Kenny, Comandante Dean, Doutor Krupp*) | Português (iguais) |
-| Verbetes do dicionário (títulos e textos) | Português | Português (iguais) |
-| Raças e tipos de nave | Português | Português (iguais) |
-| Nomes próprios (Fidel, Miki, Relia, Faykreed, Sthal…) | Iguais | Iguais |
-| Siglas de status | PV, PM, PH, ATQ, DEF, INT, MEN, Nv. | PV, PM, PH, ATQ, DEF, INT, MEN, Nv. |
-| Imagens com texto (título, batalha, HUD, menus, controles) | Traduzidas | Originais (inglês) |
-
-- **Nomes Traduzidos:** o jogo todo em português. Só os nomes próprios ficam como no original, mas o título que vem
-  com eles se traduz ("Captain Kenny" = "Capitão Kenny").
-- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. É igual à Nomes Traduzidos, menos o que se
-  procura num guia: os nomes de **cidades e mapas, itens, equipamentos, golpes, papéis, magias e monstros** (e os
-  trocadilhos dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
-  descrições, dicionário, lojas, organizações, termos do mundo e títulos com nome. A frase em volta segue em português
-  ("Fidel aprende Abyssal Gate", "o Capitão Kenny espera em Central Resulia").
-
-As duas usam o mesmo arquivo original do jogo e os mesmos saves: dá para trocar de versão a qualquer momento.
+**[⬇️ Baixar a tradução](../../releases/latest)** (página da versão mais recente). Tem um zip para cada sistema
+(`_Windows.zip` e `_Linux.zip`); dentro vem o instalador, o patch, um guia `LEIA-ME.txt` e os termos de uso. Como
+instalar: veja **💾 Instalação** abaixo.
 
 ## 🎮 O que foi traduzido
 
@@ -100,28 +41,51 @@ As duas usam o mesmo arquivo original do jogo e os mesmos saves: dá para trocar
 | Cenas da história, Ações Privadas e cenas extras | 6.479 | 100% |
 | Moradores das cidades e das naves | 5.565 | 100% |
 | Guia da história e falas do grupo durante a exploração | 682 | 100% |
-| Menus, itens, habilidades, monstros, papéis, missões, dicionário, troféus de batalha, créditos | 8.807 | 100% |
-| Imagens com texto | 24 texturas | todas as encontradas, menos as fotos dos tutoriais |
+| Menus, itens, habilidades, monstros, papéis, missões, dicionário, troféus de batalha | 8.330 | 100% |
+| Imagens com texto (título, batalha, HUD, menus, controles) | 24 texturas | todas, menos as fotos dos tutoriais |
 
 *As contagens incluem textos repetidos em vários lugares. Em textos diferentes, são cerca de 19 mil.*
 
+- **Tudo em português:** só os nomes próprios ficam como no original (Fidel, Miki, Relia, Faykreed, Sthal...). O título
+  que vem com eles se traduz ("Captain Kenny" = "Capitão Kenny").
 - **Contexto da história:** cada fala foi traduzida sabendo em que ponto da aventura está, quem fala e o que cada
   personagem já sabe. Cada personagem tem o seu jeito de falar (a Relia com fala de criança, o Emmerson galanteador e
-  cheio de gíria, a Fiore provocadora e rebuscada...). Quando o inglês faz piada ou trocadilho, a piada foi refeita em português.
+  cheio de gíria, a Fiore provocadora e rebuscada, o Oráculo solene...). Quando o inglês faz piada ou trocadilho, a
+  piada foi refeita em português.
 - **Cabe na tela:** todos os textos foram medidos pixel a pixel com a fonte do próprio jogo. Foram desenhados o `ã`
   e o `Ã`, que faltavam na fonte.
 - **Legendas dos vídeos:** traduzidas (o jogo desenha as legendas por cima dos vídeos).
+- **Interface:** PV, PM e PH no lugar de HP, MP e SP, inclusive nas imagens da batalha e do resultado.
 
-**Fica como no original:** as vozes (inglês ou japonês), as fotos dos tutoriais (o texto do tutorial ao lado está em
-português), a palavra "Pause" no menu de pausa, a linha de copyright, os nomes da equipe nos créditos e os escritos no
-alfabeto inventado do jogo.
+### Alguns exemplos
 
-## 🧩 Requisitos
+- **Sineturgia (magias):** *Angel Feather → Pena de Anjo · Arctic Impact → Impacto Ártico*
+- **Golpes:** *Abyssal Gate → Portal Abissal · Acid Rain → Chuva Ácida · Moonwalk → Passo Lunar*
+- **Papéis:** *Aggressor → Agressor · Altruist → Altruísta · tri-Ace → Triplo Ás*
+- **Monstros:** *Killer Wasp → Vespa Matadora · Grim Reaper → Ceifador · Treant → Ente · Baskania → Mau-Olhado*
+- **Itens e equipamentos:** *Acuity Potion → Poção de Acuidade · Farwell → Lâmina do Adeus*
+- **Lugares:** *Central Resulia → Resulia Central · Castle Bariff → Castelo Bariff*
 
-- **Star Ocean: Integrity and Faithlessness para PS4, versão europeia (CUSA03219)**, com o jogo **descompactado**
-  (pasta `CUSA03219` com os arquivos `.cpk`), para usar no [PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT). Para PS4/PS5, veja a instalação no
-  console.
-- O jogo com o **texto em inglês** (a tradução substitui o arquivo de idioma inglês).
+## 🚫 O que não foi traduzido (de propósito)
+
+| O quê | Por quê |
+|---|---|
+| Nomes próprios (Fidel, Miki, Relia, Faykreed, Sthal, Charles D. Goale…) | São nomes, iguais em todas as versões do jogo. |
+| Créditos finais (cargos e nomes da equipe) | Ficam como no original. |
+| Fotos dos tutoriais | São capturas da tela do jogo; o texto do tutorial ao lado está em português. |
+| A palavra "Pause" no menu de pausa | A imagem é a mesma em todos os idiomas do jogo. |
+| Logotipo, subtítulo ("Integrity and Faithlessness") e copyright | Arte e marcas registradas. |
+| Escritos no alfabeto inventado do jogo | Fazem parte da arte. |
+| Vozes | Ficam as vozes originais (inglês ou japonês). |
+
+## 💿 O que você precisa
+
+Você precisa da sua **própria cópia** do jogo para PS4, versão **europeia (CUSA03219)**, com o **texto em inglês** (a
+tradução substitui o arquivo de idioma inglês). **Este projeto não distribui o jogo.**
+
+- Para jogar no PC: o **[Star Ocean: Integrity and Faithlessness PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)**
+  (recompilação do jogo para PC) com o jogo **descompactado** (pasta `CUSA03219` com os arquivos `.cpk`).
+- Para jogar no console: PS4 ou PS5 desbloqueado (o instalador gera o PKG).
 - O arquivo que o patch altera é **um só**, sem nenhuma alteração anterior:
 
   | Arquivo | Tamanho (bytes) | MD5 | SHA-1 |
@@ -132,26 +96,26 @@ alfabeto inventado do jogo.
 
 ## 💾 Instalação
 
-Feche o jogo e o emulador antes.
+Feche o jogo antes.
 
 **🪟 Windows**
-1. Baixe o `SO5_PTBR_v1.5_Windows.zip` na página de [Releases](../../releases) e descompacte (a pasta inteira).
-2. Dê dois cliques em **`INSTALAR_WINDOWS.bat`**.
-3. Escolha a versão: **1** Nomes Traduzidos, **2** Nomes Originais (ou **3** para desinstalar).
-4. Na janela que abrir, escolha a pasta **`CUSA03219`** do jogo.
+1. Baixe o zip `_Windows.zip` na página de [Releases](../../releases/latest) e descompacte (a pasta inteira).
+2. Dê dois cliques em **`INSTALAR_WINDOWS.bat`** e escolha **1** (instalar).
+3. Na janela que abrir, escolha a pasta **`CUSA03219`** do jogo.
 
 **🐧 Linux**
 1. Instale o xdelta3, se ainda não tiver: `sudo apt install xdelta3` (Debian/Ubuntu/Mint),
    `sudo dnf install xdelta` (Fedora) ou `sudo pacman -S xdelta3` (Arch/Manjaro).
-2. Baixe o `SO5_PTBR_v1.5_Linux.zip`, descompacte e rode: `bash instalar_linux.sh`
-3. Escolha a versão e a pasta `CUSA03219` (janela de pasta com zenity/kdialog, ou digite o caminho).
+2. Baixe o zip `_Linux.zip`, descompacte e rode: `bash instalar_linux.sh`
+3. Escolha **1** e a pasta `CUSA03219` (janela de pasta com zenity/kdialog, ou digite o caminho).
 
 **O que o instalador faz:** acha o `FAI_main_ps4_LgENG_14.cpk` na pasta (ou nas subpastas), confere se é o original
 certo, aplica a tradução, confere o resultado e **guarda o original como `FAI_main_ps4_LgENG_14.cpk.orig`**. Para
-**trocar de versão** ou **desinstalar**, é só rodar o instalador de novo: ele sempre parte do `.orig`.
+**atualizar** a partir de qualquer versão anterior, é só instalar de novo: ele sempre parte do `.orig`. Para
+**desinstalar**, rode o instalador e escolha **2**.
 
-Depois de instalar, abra o jogo do zero. Se o emulador usa *save state*, não carregue um state antigo: ele guarda o
-texto da versão anterior. Os saves normais do jogo funcionam nas duas versões.
+Depois de instalar, abra o jogo do zero. Se usar *save state*, não carregue um state antigo: ele guarda o texto
+da versão anterior. Os saves normais do jogo continuam funcionando.
 
 **🎮 PS4 e PS5 desbloqueados**
 
@@ -159,33 +123,27 @@ No instalador do Windows ou do Linux:
 
 | Opção | O que faz | Escolhas |
 |---|---|---|
-| **4** | Extrai o PKG do jogo para uma pasta nova | Nomes Traduzidos, Nomes Originais ou só extrair |
-| **5** | Gera um PKG para instalar no console, a partir da pasta do jogo | Nomes Traduzidos, Nomes Originais ou o arquivo de idioma que já está na pasta |
+| **3** | Extrai o PKG do jogo para uma pasta nova | Com a tradução ou só extrair |
+| **4** | Gera um PKG para instalar no console, a partir da pasta do jogo | Aplicar a tradução ou usar o arquivo de idioma que já está na pasta |
 
 - Cada opção precisa de **31 GB livres** em disco NTFS, exFAT ou ext4.
 - A pasta do jogo e o PKG escolhido não são alterados. O `.orig` fica de fora do PKG gerado.
 - O PKG gerado mantém a versão do jogo. Para levar ao console, use pen drive exFAT ou a rede.
-- A opção 4 não abre PKG criptografado da PSN; nesse caso, use a pasta do jogo.
+- A opção 3 não abre PKG criptografado da PSN; nesse caso, use a pasta do jogo.
 - **O PKG gerado contém o jogo inteiro: é só para o seu uso, não compartilhe.**
 
-**Sem o instalador** (qualquer sistema), com o `xdelta3`:
+**Sem o instalador** (qualquer sistema), com o `xdelta3` (renomeie antes o original para `.orig`):
 ```
-xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FAI_main_ps4_LgENG_14.cpk
+xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/SO5_PTBR.xdelta FAI_main_ps4_LgENG_14.cpk
 ```
-(renomeie antes o original para `.orig`).
+O MD5 esperado do arquivo traduzido está em `arquivos/md5.txt`.
 
-| Versão | MD5 do `FAI_main_ps4_LgENG_14.cpk` traduzido |
-|---|---|
-| Nomes Traduzidos | `7cf7d6bf39b8f643f0e6eeb718e35e63` |
-| Nomes Originais | `590207f113437aeaf5dba2d5dff10e9c` |
+## 🔒 Segurança
 
-## 🖥️ Onde foi testado
-
-- **[Star Ocean: Integrity and Faithlessness PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT)**
-  (recompilação do jogo para PC, versão 0.4.0, Windows): as duas versões da tradução funcionam.
-- **Problema conhecido do PS4RT:** na versão 0.4.0, abrir **Recursos → Troféus de Batalha** fecha o programa, também
-  com o jogo original em inglês. Não é da tradução.
-- **PS4 e PS5 desbloqueados:** funcionando, com o PKG gerado pelo instalador.
+- Baixe a tradução **só pela página de [Releases](../../releases) deste repositório**.
+- O zip traz o `SHA256SUMS.txt` com o código de cada arquivo, e o instalador confere o MD5 do original e do resultado
+  antes de trocar qualquer coisa.
+- O instalador não apaga o original: ele fica guardado como `.orig` na pasta do jogo.
 
 ## ❓ Não funcionou?
 
@@ -194,15 +152,15 @@ xdelta3 -d -s FAI_main_ps4_LgENG_14.cpk.orig arquivos/Nomes_Traduzidos.xdelta FA
 | O instalador diz que o arquivo "não é o original esperado" | O jogo não é a versão europeia CUSA03219, ou o arquivo já foi alterado antes. Recoloque o original. |
 | "Já é a tradução, mas o original (.orig) não está na pasta" | Alguém apagou o `.orig`. Recoloque o arquivo original do jogo e rode de novo. |
 | No Linux: "o programa xdelta3 não está instalado" | Instale o xdelta3 (veja a Instalação). |
-| Textos misturados ou nomes de arquivo no lugar das falas | O emulador estava aberto na troca, ou foi carregado um *save state* antigo. Feche tudo e abra o jogo do zero. |
-| "Este PKG é criptografado" | O PKG é o formato da PSN, que a opção 4 não abre. Use a pasta do jogo. |
+| Textos misturados ou nomes de arquivo no lugar das falas | O jogo estava aberto na troca, ou foi carregado um *save state* antigo. Feche tudo e abra o jogo do zero. |
+| "Este PKG é criptografado" | O PKG é o formato da PSN, que a opção 3 não abre. Use a pasta do jogo. |
 | "A unidade é FAT32" | Esse formato não aceita arquivos maiores que 4 GB. Escolha um disco NTFS, exFAT ou ext4. |
-| O PS4RT fecha em Troféus de Batalha | Limitação do PS4RT 0.4.0 (acontece também em inglês). |
+| Travamento | Abra uma issue informando onde aconteceu. |
 
 ## 🐞 Achou um erro?
 
-Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão (Nomes Traduzidos ou
-Nomes Originais), o lugar do jogo e, se puder, mande um print. Toda correção de português também é bem-vinda.
+Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão do patch, o lugar do
+jogo e, se puder, mande um print. Toda correção de português também é bem-vinda.
 
 ## 🙏 Créditos
 
@@ -213,7 +171,7 @@ Nomes Originais), o lugar do jogo e, se puder, mande um print. Toda correção d
 - **Fontes livres** usadas nas imagens: Liberation (Serif e Sans, licença OFL), Russo One e Cinzel (OFL), Arimo (Apache).
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todos os textos foram revisados com o contexto da história e o
-jeito de falar de cada personagem, conferidos pixel a pixel para caber nas caixas e testados no PS4RT. Se achar uma
+jeito de falar de cada personagem, conferidos pixel a pixel para caber nas caixas e testados no jogo. Se achar uma
 frase estranha, abra uma [issue](../../issues), porque toda sugestão ajuda.
 
 ## ⚖️ Aviso legal e uso

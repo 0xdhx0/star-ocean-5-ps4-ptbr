@@ -16,18 +16,11 @@ body:
         - Outro
     validations:
       required: true
-  - type: dropdown
-    id: edicao
-    attributes:
-      label: Qual das duas versões
-      options: ["Nomes Traduzidos (tudo em português)", "Nomes Originais (nomes e imagens do jogo original)"]
-    validations:
-      required: true
   - type: input
     id: versao
     attributes:
       label: Versão do patch
-      placeholder: "v1.0"
+      placeholder: "v1.6"
     validations:
       required: true
   - type: input
@@ -54,4 +47,4 @@ body:
     id: emulador
     attributes:
       label: Onde você joga (emulador e versão, ou console)
-      placeholder: "ps4rt 0.4.0 / shadPS4 0.x / PS4"
+      placeholder: "PS4RT 0.4.0 / PS4 / PS5"
