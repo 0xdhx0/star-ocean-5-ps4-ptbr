@@ -22,15 +22,7 @@ jogo para PC. Funciona também em **PS4 e PS5 desbloqueados**.
 > ✅ História, Ações Privadas, moradores das cidades, missões, menus, itens, habilidades, dicionário e as imagens com
 > texto estão em português. Testado na recompilação PS4RT do jogo e em PS4 e PS5 desbloqueados. Se achar algum
 > problema, abra uma [issue](../../issues).
->
-> 🇯🇵 **Na v1.4, todo o texto foi revisado de novo comparando com a versão japonesa do jogo**: nomes, descrições de
-> itens, habilidades e monstros, missões e todos os diálogos. Foram corrigidos sentidos que o inglês deixava ambíguos,
-> o gênero e o singular/plural de quem fala, e algumas decisões de nomes. Alturas e pesos dos perfis seguem os valores oficiais.
->
-> ✏️ **Na v1.5, nomes inventados que não faziam sentido em português foram trocados** (versão Nomes Traduzidos):
-> golpes Baionetaço, Martelapocalipse, Míssil de Penas, Eletrosfera e Ventosfera; monstros Bolofofo e Tratareia;
-> papéis Terrassaltante, Aerobeligerante, Lumercenário e Caosmilitante. Também foi corrigido um erro de ortografia.
-> Atualização de 14/11/2026: nomes de lugar da versão Nomes Originais corrigidos (iguais em todas as telas).
+
 
 ## 📸 Fotos
 
